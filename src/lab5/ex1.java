@@ -1,9 +1,9 @@
 package lab5;
 
 public class ex1 {
-
     public static void main(String[] args) {
 
+        //boolean
         boolean b = true;
         System.out.println(!b);
 
@@ -28,14 +28,6 @@ public class ex1 {
         System.out.println(msg.length());
         System.out.println(msg.toUpperCase());
         System.out.println(msg.substring(5));
-
-
-
-
-
-
-
-
 
 
 
